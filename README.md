@@ -1,3 +1,4 @@
+# BR
 --- BR --- BR --- BR ---
 
 ## Netflix_ETL_Dashboard_Solution
@@ -27,8 +28,8 @@ Crie um processo ETL com um conjunto de dados de clientes com novas assinaturas.
 1. Crie uma visualização de dados com Power Bi
 
 
---- USA --- USA --- USA ---
 # US
+--- USA --- USA --- USA ---
 
 ## Netflix_ETL_Dashboard_Solution
 
