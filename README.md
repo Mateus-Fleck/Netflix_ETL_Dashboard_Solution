@@ -35,14 +35,14 @@ https://app.powerbi.com/view?r=eyJrIjoiYTdhODdhNDUtMjczZi00NzExLThmODQtNDJkYzFhZ
 
 <div>
     <a href="">
-    <img height="400" align="center" src="" class="img-responsive">
+    <img height="400" align="center" src="https://github.com/Mateus-Fleck/Netflix_ETL_Python_Dashboard_Solution_PowerBI/blob/a5f3a51371f66b4db1d63c6c97d28aa64ccafb85/assets/imgs/1%20-%20Cover_Official_Netflix_v1.jpg" class="img-responsive">
 </div><br>
 
 ## Print: Overview_Page_01
 
 <div>
     <a href="">
-    <img height="400" align="center" src="" class="img-responsive">
+    <img height="400" align="center" src="https://github.com/Mateus-Fleck/Netflix_ETL_Python_Dashboard_Solution_PowerBI/blob/a5f3a51371f66b4db1d63c6c97d28aa64ccafb85/assets/imgs/Print_Netflix_Overview_Page_01.jpg" class="img-responsive">
 </div><br>
 
 
