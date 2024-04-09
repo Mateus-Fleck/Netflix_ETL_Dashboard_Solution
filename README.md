@@ -27,6 +27,25 @@ Crie um processo ETL com um conjunto de dados de clientes com novas assinaturas.
 
 1. Crie uma visualização de dados com Power Bi
 
+### Link Solution: 
+Netflix_Dashboard_v1
+https://app.powerbi.com/view?r=eyJrIjoiYTdhODdhNDUtMjczZi00NzExLThmODQtNDJkYzFhZGIxMzVmIiwidCI6ImJkNGYxOWRlLTc1MmUtNDgxMy1iYmRmLWE3MmI4ZGE2ZTI1MSJ9
+
+## Print: Cover
+
+<div>
+    <a href="">
+    <img height="400" align="center" src="" class="img-responsive">
+</div><br>
+
+## Print: Overview_Page_01
+
+<div>
+    <a href="">
+    <img height="400" align="center" src="" class="img-responsive">
+</div><br>
+
+
 
 # US
 --- USA --- USA --- USA ---

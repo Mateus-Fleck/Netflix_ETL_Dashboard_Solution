@@ -1,7 +1,12 @@
+# BR
+
 --- BR --- BR --- BR ---
 
 # Origem - Conjunto de dados -> DIO - Digital Innovation One
 https://github.com/digitalinnovationone/netflix-dataset.git
+
+
+Dados ficticios  
 
 ## O que vamos usar (downloads de links e visão geral)
 
@@ -26,9 +31,9 @@ https://github.com/digitalinnovationone/netflix-dataset.git
 
 ### Conceitos = Etapas dos dados
 
-DADOS RAW = Todos os dados antes de qualquer processo de polimento ou processamento, são os dados em sua forma mais bruta.
+DATA RAW = Todos os dados antes de qualquer processo de polimento ou processamento, são os dados em sua forma mais bruta.
 
-DADOS PRONTOS - É quando os dados passaram pelo processo de refinamento.
+DATA READY - É quando os dados passaram pelo processo de refinamento.
 
 
 3. Instale bibliotecas
@@ -59,7 +64,7 @@ Atualizar pip
 - Esforce-se pela confiabilidade e rastreabilidade dos dados.
 
 
-
+# USA
 --- USA --- USA --- USA ---
 
 # Origin - Dataset -> DIO - Digital Innovation One 
